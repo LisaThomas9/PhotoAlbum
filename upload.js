@@ -39,8 +39,8 @@ $(document).ready( function() {
 			if (file1) {   
 				alert(file1.name)
                 AWS.config.update({
-                    "accessKeyId": "AKIAJMGVWIBSP5ZTDM6Q",
-                    "secretAccessKey": "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",
+                    "accessKeyId": "",
+                    "secretAccessKey": "",
                     "region": "us-east-1"
                 });
 
